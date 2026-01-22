@@ -25,9 +25,4 @@ A music streaming app built using **React Native (Expo)** and the **JioSaavn pub
 
 ---
 
-## ⚙️ Setup
-```bash
-git clone https://github.com/nandangarg65/JioSaavan
-cd react-native-music-player
-npm install
-npx expo start
+
